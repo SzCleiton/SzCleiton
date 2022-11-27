@@ -1,7 +1,7 @@
-## Olá! Eu sou o Cleiton Souza
+## Hello, I'm Cleiton Souza
 
-- 🔭 Hoje eu trabalho com back-end e front-end
-- 😄 Pronouns: ele/dele
+- 🔭 I work with backend and frontend
+- 😄 Pronouns: him/his
 
 <div align="center">
   <a href="https://github.com/SzCleiton">
