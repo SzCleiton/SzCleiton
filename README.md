@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cleiton Souza
 
-- 🔭 Hoje eu trabalho com back-end e fron-end
+- 🔭 Hoje eu trabalho com back-end e front-end
 - 🌱 Estudando Typescript
 - 😄 Pronouns: ele/dele
 
